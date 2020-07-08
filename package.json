@@ -1,0 +1,17 @@
+{
+  "name": "recap",
+  "version": "1.0.0",
+  "description": "what i have learnt so far",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Damilola Jerugba Onaopemipo",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
