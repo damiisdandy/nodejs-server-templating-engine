@@ -13,5 +13,8 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "moment": "^2.27.0"
   }
 }
